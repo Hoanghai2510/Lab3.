@@ -164,5 +164,3 @@ Output gồm `anomaly_score`, `threshold_used`, `is_anomaly`, `event_type`, `sev
 - Có biểu đồ trong `figures/`.
 - API `/health` trả `model_loaded: true`.
 - API `/detect-anomaly` trả đủ `anomaly_score`, `event_type`, `severity` và `decision`.
-
-j
